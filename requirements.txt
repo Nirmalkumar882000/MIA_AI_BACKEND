@@ -1,0 +1,4 @@
+edge-tts
+asyncio
+base64
+json
